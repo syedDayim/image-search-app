@@ -1,12 +1,16 @@
 import './App.css'
+import searchImage from "./Api"
+import SearchBar from './components/SearchBar'
 
 function App() {
+  
+  function handleSubmit(term){
+    console.log("Do a search with " + term)
+  }
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+      <SearchBar onSubmit = { handleSubmit } />
     </>
   )
 }
