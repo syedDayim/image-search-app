@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Click Here](https://vercel.com/syeddayims-projects/image-search-app/GTacZpEzPiF9r5vaz6Eu2W4yYQuC)
+[Click Here](https://image-search-atngwjwo8-syeddayims-projects.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
