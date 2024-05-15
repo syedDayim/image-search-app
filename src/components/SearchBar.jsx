@@ -9,6 +9,7 @@ function SearchBar({ onSubmit }) {
     }
 
     
+    
     function handleChange(event){
         setTerm(event.target.value);
     }
